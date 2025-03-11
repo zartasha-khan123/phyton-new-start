@@ -26,4 +26,4 @@ if st.button("Generate Password"):
             
 st.write("---------------------------------------")  
             
-st.write("Build with ❤️ by [Zartash Imran](https://www.linkedin.com/in/zartashzartasha/)")
+st.write("Build with ❤️ by [Zartash Imran](https://github.com/zartasha-khan123/phyton-new-start)")
